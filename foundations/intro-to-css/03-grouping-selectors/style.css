@@ -1,0 +1,11 @@
+.clickme-1 {
+    background-color: black;
+    color: white;
+}
+.clickme-2 {
+    background-color: rgba(223, 216, 0, 0.923);
+}
+button {
+    font-size: 28px;
+    font-family: 'Helvetica' 'Times New Roman' 'sans-serif';
+}
